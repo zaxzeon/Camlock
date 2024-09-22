@@ -139,7 +139,7 @@ TextButton.MouseButton1Click:Connect(
             CamlockState = true
             enemy = FindNearestEnemy()
 game.StarterGui:SetCore("SendNotification", {
-    Title = "Polo's Camlock",
+    Title = "Guest's Camlock",
     Text = "Locking To"
 
 })
